@@ -4,4 +4,4 @@
 ## ID: 24978
 
 
-![Alt text](./24978.jpg)
+![Alt text](./24978.png)
